@@ -10,7 +10,7 @@ Nascemos no interior e construímos um modelo de negócios que une gestão artí
 
 🎵 **Paralogy** — Distribuidora musical digital que representa a verdadeira diversidade da música brasileira, sem rótulos e sem barreiras de gênero.
 
-🎟️ **Ingressos Web** — Plataforma completa de venda de ingressos e gestão de eventos.
+🎟️ **AGP Hub 360** — Plataforma completa de venda de ingressos e gestão de eventos.
 
 💳 **Pal.co** — Banco digital criado para facilitar a rotina de artistas, contratantes e empresas do entretenimento.
 
